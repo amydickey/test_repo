@@ -3,5 +3,5 @@
 # it does PCA
 
 ## info
-*Amy Dickey
-*Kwon lab
+* Amy Dickey
+* Kwon lab
